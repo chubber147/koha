@@ -16,9 +16,6 @@ Inhalt:
    Zugang zu Koha
 
 
-Indices und Suche
-==================
-
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
