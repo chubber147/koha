@@ -6,7 +6,7 @@
 Willkommen zum Leitfaden zur Verwaltung der Lehrmittel!
 =========================================================
 
-Contents:
+Inhalt:
 
 
 .. toctree::
@@ -15,7 +15,7 @@ Contents:
    Vorwort
 
 
-Indices and tables
+Indices und Suche
 ==================
 
 * :ref:`genindex`
